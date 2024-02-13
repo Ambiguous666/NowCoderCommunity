@@ -43,3 +43,4 @@ mybatis:
 community:
   path:
     domain: http://localhost:8080
+    upload: E:/Workspace/Java/exercise/NowCoderCommunity/upload
